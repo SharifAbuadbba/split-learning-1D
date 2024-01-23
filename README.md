@@ -2,7 +2,13 @@
 
 **Note:** this repo contains our implementation for our ACM ASIACCS 2020 paper below. Please if you find it useful, use the below citation to cite our paper.
 
-Sharif Abuadbba, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, Yansong Gao, Hyoungshick Kim, Surya Nepal, ‘Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?’, The 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020), Taipei, Taiwan, from June 1st to June 5th, 2020
+@inproceedings{abuadbba2020can,
+  title={Can we use split learning on 1d cnn models for privacy preserving training?},
+  author={Abuadbba, Sharif and Kim, Kyuyeon and Kim, Minki and Thapa, Chandra and Camtepe, Seyit A and Gao, Yansong and Kim, Hyoungshick and Nepal, Surya},
+  booktitle={Proceedings of the 15th ACM Asia Conference on Computer and Communications Security},
+  pages={305--318},
+  year={2020}
+}
 
 **Available Now:**
 - Our 1D CNN split learning models with their accuracy results.
